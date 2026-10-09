@@ -1,2 +1,4 @@
 # Real-AME-4-6-state
-We provide a way to generate real-valued absolutely maximally entangled (AME) states of four quantum systems each of local dimension six (quhexes).
+We provide an explicit construction of real-valued absolutely maximally entangled (AME) states of four quhexes (local dimension 6); AME(4,6). These are equivalent to four-leg perfect tensors (each leg having local dimension 6) or, special $36 \times 36$ unitary matrices called 2-unitary. We obtain sparse representations of these 2-unitaries and the most sparse candidates we obtain have only 60 non-zero entries out of total $36 \times 36 =1296$. Reshaping each row of the given sparse 2-unitary into a bipartite state in $\mathbb{C}^6 \otimes \mathbb{C}^6$ and arranging it in a $6 \times 6$ arrangement, these square arrangement represent quantum solutions to the thirty-six officers problem of Euler. Remarkably due to sparsity of the solutions 12 quantum officers are unentangled unlike previous solutions in which all quantum officers are entangled.
+
+All the technical details about the methods used will be provided in an upcoming paper. This work is dedicated to little Misha.
